@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icons/list_icon.png</file>
+        <file>icons/setting_icon.png</file>
+        <file>icons/shop_icon.png</file>
+        <file>Shop.qml</file>
+        <file>Cart.qml</file>
+        <file>Settings.qml</file>
+    </qresource>
+</RCC>
